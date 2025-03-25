@@ -1,1 +1,1 @@
-# salon-booking-app
+# e-commerce-microservice-app
