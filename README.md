@@ -1,1 +1,1 @@
-# salon-appointment-booking-app
+# salon-booking-app
